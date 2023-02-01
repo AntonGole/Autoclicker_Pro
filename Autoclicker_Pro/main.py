@@ -106,6 +106,9 @@ def main():
     posDown = int(root.winfo_screenheight() / 2 - winwHeight / 2)
     root.geometry("+{}+{}".format(posRight, posDown))
 
+    # Change icon of application
+    root.iconbitmap("images/click.ico")
+
     # Create new instance of class App and pass root, is_valid_command
     app = App(root, is_valid_command, is_valid_command2)
     app.clicker = Clicker(app)
