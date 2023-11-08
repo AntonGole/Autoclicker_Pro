@@ -1,5 +1,5 @@
 # Autoclicker Pro
-Autoclicker with set and random intervals with standard deviation.
+Autoclicker with the possibility of both set as well as random intervals with standard deviation built in.
 
 
 Below is a screenshot of the application and all available features:
