@@ -12,7 +12,7 @@ Autoclicker_Pro is an advanced autoclicking tool developed in Python, designed t
 - **Right/Left Click Configuration**: Option to choose between right and left mouse clicks.
 - **User-friendly GUI**: Built with a clean and straightforward interface for ease of use, see screenshot below.
 
-![GUI](/screenshots/app.png)
+<img width="425" alt="Screenshot" src="https://user-images.githubusercontent.com/55693360/216151295-429a6177-333f-498e-af85-efca0ce8711d.PNG">
 
 ## Dependencies
 
